@@ -1,0 +1,16 @@
+{
+  "name": "cypress-lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "6.2.1",
+    "cypress-audit": "^0.3.0"
+  }
+}

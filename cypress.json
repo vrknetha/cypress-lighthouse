@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://develop.convosight.com",
+  "lighthouse": {
+    "performance": 85,
+    "best-practices": 85,
+    "pwa": 50
+  }
+}
